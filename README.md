@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ahirrao098
 - 👀 I’m interested in Data Science, Machine Learning and Artificial Intelligence
-- 🌱 I’m currently learning Python, Power BI, R, MySQL, Azure, Apache, Spark, Hadoop, SAS, Artificial intelligence and Deep learning
+- 🌱 I’m currently learning Python, Tablue, R, MySQL, Azure, Apache, Spark, Hadoop, Artificial intelligence and Deep learning
 - 💞️ I’m looking to collaborate on all topics related to Data Science, Machine Learning and Artificial Intelligence.
 - 📫 You can reach me on my email id ahirraorohit1@gmail.com
 
